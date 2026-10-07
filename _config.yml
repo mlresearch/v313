@@ -4,7 +4,7 @@ booktitle: Proceedings of The 37th International Conference on Algorithmic Learn
 shortname: ALT
 year: '2026'
 volume: '313'
-start: &1 2026-02-23
+start: 2026-02-23
 end: 2026-02-26
 published: 2026-05-05
 conference_number: '37'
@@ -70,7 +70,7 @@ conference:
   url: http://algorithmiclearningtheory.org/alt2026/
   location: Fields Institute, Toronto, Canada
   dates:
-  - *1
+  - 2026-02-23
   - 2026-02-24
   - 2026-02-25
   - 2026-02-26
